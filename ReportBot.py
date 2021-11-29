@@ -9,8 +9,8 @@ def startMessage ():#line:7
         print (Fore .RED +'[X] Wrong Code')#line:11
         print (Fore .BLUE +''' 
    1. Go to Whats'app
-   2. Send msg http://wa.me/+917558278999
-   3. Send #Instareport In TXT
+   2. Send msg +91 7558278999
+   3. Send #Instareport 
    4. You Will Get Code For Free
    5. Next time come with code and use this tool
     ''')#line:18
